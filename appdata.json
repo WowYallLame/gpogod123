@@ -2494,12 +2494,12 @@
       "Custom": true
     },
       "rbxassetid://7600160919": {
-      "DelayDistance": 20,
+      "DelayDistance": 40,
       "RepeatParryDelay": 0,
-      "Range": 20,
+      "Range": 40,
       "RepeatParryAmount": 0,
       "Hold": false,
-      "Wait": 20,
+      "Wait": 12,
       "Name": "Serpent1",
       "Roll": false,
       "Delay": false,
