@@ -2493,6 +2493,20 @@
       "Delay": false,
       "Custom": true
     },
+      "rbxassetid://7600160919": {
+      "DelayDistance": 20,
+      "RepeatParryDelay": 0,
+      "Range": 20,
+      "RepeatParryAmount": 0,
+      "Hold": false,
+      "Wait": 20,
+      "Name": "Serpent1",
+      "Roll": false,
+      "Delay": false,
+      "Custom": true
+    },
+  
+ 
   "rbxassetid://7617742471": {
     "DelayDistance": 0,
     "RepeatParryDelay": 0,
