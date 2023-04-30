@@ -2499,7 +2499,7 @@
 		"Range": 40,
 		"RepeatParryAmount": 0,
 		"Hold": false,
-		"Wait": 55,
+		"Wait": 75,
 		"Name": "med1",
 		"Roll": false,
 		"Delay": false,
