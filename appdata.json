@@ -2517,7 +2517,18 @@
 		"Delay": false,
 		"Custom": true
 	  },
-	
+		"rbxassetid://9597289518": {
+		"DelayDistance": 40,
+		"RepeatParryDelay": 0,
+		"Range": 40,
+		"RepeatParryAmount": 0,
+		"Hold": false,
+		"Wait": 102,
+		"Name": "med1",
+		"Roll": false,
+		"Delay": false,
+		"Custom": true
+	  },
 	
 
 	
