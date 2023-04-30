@@ -2499,65 +2499,13 @@
 		"Range": 40,
 		"RepeatParryAmount": 0,
 		"Hold": false,
-		"Wait": 47,
-		"Name": "Serpent1",
+		"Wait": 45,
+		"Name": "med1",
 		"Roll": false,
 		"Delay": false,
 		"Custom": true
 	  },
-
-	  "rbxassetid://7600160919": {
-		"DelayDistance": 40,
-		"RepeatParryDelay": 0,
-		"Range": 40,
-		"RepeatParryAmount": 0,
-		"Hold": false,
-		"Wait": 47,
-		"Name": "Serpent2",
-		"Roll": false,
-		"Delay": false,
-		"Custom": true
-	  },
-	  "rbxassetid://9484850093": {
-		"DelayDistance": 40,
-		"RepeatParryDelay": 0,
-		"Range": 40,
-		"RepeatParryAmount": 0,
-		"Hold": false,
-		"Wait": 47
-		"Name": "Serpent3",
-		"Roll": false,
-		"Delay": false,
-		"Custom": true
-	  },
-	  "rbxassetid://7627372304": {
-		"DelayDistance": 40,
-		"RepeatParryDelay": 0,
-		"Range": 40,
-		"RepeatParryAmount": 0,
-		"Hold": false,
-		"Wait": 47
-		"Name": "Spear1",
-		"Roll": false,
-		"Delay": false,
-		"Custom": true
-	  },
-	  "rbxassetid://9484850093": {
-		"DelayDistance": 40,
-		"RepeatParryDelay": 0,
-		"Range": 40,
-		"RepeatParryAmount": 0,
-		"Hold": false,
-		"Wait": 47
-		"Name": "Spear2",
-		"Roll": false,
-		"Delay": false,
-		"Custom": true
-	  },
-	
-	
- 
-	"rbxassetid://7617742471": {
+	  "rbxassetid://7617742471": {
 	  "DelayDistance": 0,
 	  "RepeatParryDelay": 0,
 	  "Range": 100,
@@ -2568,5 +2516,6 @@
 	  "Roll": false,
 	  "Delay": false,
 	  "Custom": true
-	}
-  }
+	  }
+
+}
