@@ -47,18 +47,6 @@
 	  "Delay": false,
 	  "Roll": false
 	},
-	"rbxassetid://5659487786": {
-	  "DelayDistance": 0,
-	  "RepeatParryDelay": 0,
-	  "Range": 0,
-	  "RepeatParryAmount": 0,
-	  "Hold": false,
-	  "Wait": 0,
-	  "Name": "SharkoDustOffDel",
-	  "Roll": false,
-	  "Delay": false,
-	  "Custom": true
-	},
 	"rbxassetid://8229000378": {
 	  "DelayDistance": 0,
 	  "RepeatParryDelay": 0,
@@ -365,18 +353,6 @@
 	  "Delay": false,
 	  "Custom": true
 	},
-	"rbxassetid://5121733951": {
-		"DelayDistance": 40,
-		"RepeatParryDelay": 160,
-		"Range": 35,
-		"RepeatParryAmount": 1,
-		"Hold": false,
-		"Wait": 200,
-		"Name": "SharkoDouble",
-		"Roll": false,
-		"Delay": false,
-		"Custom": true
-	  },
 	"rbxassetid://9224920648": {
 	  "DelayDistance": 0,
 	  "RepeatParryDelay": 0,
@@ -518,18 +494,6 @@
 	  "Custom": true,
 	  "Delay": false,
 	  "Roll": false
-	},
-	"rbxassetid://5117879514": {
-	  "DelayDistance": 0,
-	  "RepeatParryDelay": 0,
-	  "Range": 35,
-	  "RepeatParryAmount": 0,
-	  "Hold": false,
-	  "Wait": 270,
-	  "Roll": false,
-	  "Name": "SharkoSwipe",
-	  "Delay": false,
-	  "Custom": true
 	},
 	"rbxassetid://9470822568": {
 	  "DelayDistance": 0,
@@ -682,18 +646,6 @@
 	  "Hold": false,
 	  "Wait": 300,
 	  "Name": "IllusoryRealm",
-	  "Custom": true,
-	  "Delay": false,
-	  "Roll": true
-	},
-	"rbxassetid://11710290503": {
-	  "DelayDistance": 0,
-	  "RepeatParryDelay": 0,
-	  "Range": 60,
-	  "RepeatParryAmount": 0,
-	  "Hold": false,
-	  "Wait": 240,
-	  "Name": "SharkoPunt",
 	  "Custom": true,
 	  "Delay": false,
 	  "Roll": true
@@ -902,18 +854,6 @@
 	  "Hold": true,
 	  "Wait": 250,
 	  "Name": "IceLance",
-	  "Roll": false,
-	  "Delay": false,
-	  "Custom": true
-	},
-	"rbxassetid://5644214359": {
-	  "DelayDistance": 0,
-	  "RepeatParryDelay": 0,
-	  "Range": 0,
-	  "RepeatParryAmount": 0,
-	  "Hold": false,
-	  "Wait": 0,
-	  "Name": "SharkoStun",
 	  "Roll": false,
 	  "Delay": false,
 	  "Custom": true
@@ -1261,18 +1201,6 @@
 	  "Name": "FlameAssault",
 	  "Delay": false,
 	  "Roll": false
-	},
-	"rbxassetid://5641574212": {
-	  "DelayDistance": 0,
-	  "RepeatParryDelay": 0,
-	  "Range": 100,
-	  "RepeatParryAmount": 0,
-	  "Hold": false,
-	  "Wait": 250,
-	  "Roll": true,
-	  "Custom": true,
-	  "Delay": false,
-	  "Name": "SharkoScream"
 	},
 	"rbxassetid://5953326460": {
 	  "DelayDistance": 0,
@@ -2349,18 +2277,6 @@
 	  "Delay": false,
 	  "Roll": false
 	},
-	"rbxassetid://11710417615": {
-	  "DelayDistance": 0,
-	  "RepeatParryDelay": 0,
-	  "Range": 100,
-	  "RepeatParryAmount": 0,
-	  "Hold": true,
-	  "Wait": 250,
-	  "Custom": true,
-	  "Name": "SharkoCoral",
-	  "Delay": false,
-	  "Roll": false
-	},
 	"rbxassetid://8183996606": {
 	  "DelayDistance": 0,
 	  "RepeatParryDelay": 0,
@@ -2529,9 +2445,66 @@
 		"Delay": false,
 		"Custom": true
 	  },
-	
-
-	
+	  "rbxassetid://5659487786": {
+		"DelayDistance": 0,
+		"RepeatParryDelay": 0,
+		"Range": 0,
+		"RepeatParryAmount": 0,
+		"Hold": false,
+		"Wait": 0,
+		"Name": "SharkoDustOffDel",
+		"Roll": false,
+		"Delay": false,
+		"Custom": true
+	  },
+	  "rbxassetid://5121733951": {
+		"DelayDistance": 40,
+		"RepeatParryDelay": 160,
+		"Range": 35,
+		"RepeatParryAmount": 1,
+		"Hold": false,
+		"Wait": 200,
+		"Name": "SharkoDouble",
+		"Roll": false,
+		"Delay": false,
+		"Custom": true
+	  },
+	  "rbxassetid://5117879514": {
+		"DelayDistance": 0,
+		"RepeatParryDelay": 0,
+		"Range": 35,
+		"RepeatParryAmount": 0,
+		"Hold": false,
+		"Wait": 270,
+		"Roll": false,
+		"Name": "SharkoSwipe",
+		"Delay": false,
+		"Custom": true
+	  },
+	  "rbxassetid://11710290503": {
+		"DelayDistance": 0,
+		"RepeatParryDelay": 0,
+		"Range": 60,
+		"RepeatParryAmount": 0,
+		"Hold": false,
+		"Wait": 240,
+		"Name": "SharkoPunt",
+		"Custom": true,
+		"Delay": false,
+		"Roll": true
+	  },
+	  "rbxassetid://11710417615": {
+		"DelayDistance": 0,
+		"RepeatParryDelay": 0,
+		"Range": 100,
+		"RepeatParryAmount": 0,
+		"Hold": true,
+		"Wait": 250,
+		"Custom": true,
+		"Name": "SharkoCoral",
+		"Delay": false,
+		"Roll": false
+	  },
 	  "rbxassetid://7617742471": {
 	  "DelayDistance": 0,
 	  "RepeatParryDelay": 0,
